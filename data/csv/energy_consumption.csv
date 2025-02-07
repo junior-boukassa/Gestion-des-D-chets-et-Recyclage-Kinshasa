@@ -1,0 +1,13 @@
+Year,Month,Device,Consumption_kWh
+2023,1,Chauffage,150
+2023,2,Chauffage,120
+2023,3,Climatisation,200
+2023,4,Climatisation,180
+2023,5,Éclairage,50
+2023,6,Éclairage,60
+2023,7,Climatisation,210
+2023,8,Climatisation,190
+2023,9,Chauffage,130
+2023,10,Chauffage,140
+2023,11,Chauffage,160
+2023,12,Chauffage,170
